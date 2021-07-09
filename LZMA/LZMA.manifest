@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 249183766
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: audiobundle
+      Dependencies: {}
+    Info_1:
+      Name: menubundle
+      Dependencies: {}
