@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3742957690
+CRC: 2131656025
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6c639e3a68cec732af25acb6e88350c3
+    Hash: a37a763807d246ebc758f8cdab55e222
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
@@ -13,4 +13,5 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Audio/click_button.mp3
+- Assets/Audio/MenuAudio.mp3
 Dependencies: []
